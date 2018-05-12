@@ -14,6 +14,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37518#The-Butterflys-BallMother-s-Series
 gutenberg_issued: '2011-09-24'
 gutenberg_type: Text
 identifiers:
